@@ -1,0 +1,4 @@
+data/output/*.jpg
+data/output/*.png
+
+PRIVATE_NOTES.md
